@@ -1,6 +1,6 @@
 # Wireless Sensor Networks (WSNs) – Design and Deployment
 
-> **Course:** Computer Networks / IoT  
+> **Course:** Wireless Sensors Network 
 > **Institution:** Arab American University – Palestine (AAUP)  
 > **Instructor:** Asem Salah  
 > **Team:** Kinda Massad (202210677) · Roa'a Sawaftah (202210446) · Dalya Moustafa (202210223)
